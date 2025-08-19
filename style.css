@@ -1,0 +1,139 @@
+body{
+    
+    background-color: rgb(46, 42, 65);
+    text-align: center;
+    padding: 50px;
+    
+}
+
+#capa{
+    width: 70%;
+    
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+    overflow: auto;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    background-image: url('imagens/textura.jpg');
+    background-size: cover;
+     position: relative;
+    
+}
+
+#capa img{
+    width: 30%;
+    border-radius: 40px;
+    float: left;
+    margin-top: -70px;
+    margin-right: 20px
+    
+
+}
+
+#capa h1{
+    text-align:center;
+    margin-left: 300px;
+    color: rgb(20, 20, 19);
+    border-bottom: 2px solid black; 
+}
+
+#capa p{
+     line-height: 1.6;
+     margin-left: 200px
+}
+
+.butao{
+    bottom: 20px; 
+    right: 20px;
+    position: absolute;
+    
+}
+
+.butao button{
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 6px;
+    background-color: rgb(151, 138, 150);
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(178, 166, 179);
+}
+
+#pag2{
+    width: 70%;
+    
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+    overflow: auto;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    background-image: url('imagens/textura.jpg');
+    background-size: cover;
+     position: relative;
+
+}
+#pag2 img{
+    padding: 5px;
+    width: 30%;
+    border-radius: 40px;
+    float: left;
+    margin-right: 20px;
+}
+
+#pag3{
+     width: 70%;
+    
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+    overflow: auto;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    background-image: url('imagens/textura.jpg');
+    background-size: cover;
+     position: relative;
+
+}
+
+#pag3 img{
+     padding: 5px;
+    width: 30%;
+    border-radius: 40px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+#pag4{
+    width: 70%;
+    
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+    overflow: auto;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    background-image: url('imagens/textura.jpg');
+    background-size: cover;
+     position: relative;
+
+}
+
+#pag4 img{
+     padding: 5px;
+    width: 30%;
+    border-radius: 40px;
+    float: left;
+    margin-right: 20px;
+}
+
+#pag4 p{
+    padding: 12px;
+}
+
+#pag4 h2{
+   text-align: right;
+}
